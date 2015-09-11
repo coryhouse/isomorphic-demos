@@ -1,6 +1,6 @@
 # Isomorphic Demos
 
-Here's a list of Isomorphic demos I've found across the web.
+Here's a list of Isomorphic demos I've found across the web. If you find others that are useful, please submit a pull request and I'll add to this list.
 
 1. [flux-examples/react-router](https://github.com/yahoo/flux-examples/tree/master/react-router)
 2. [flux-examples/fluxible-router](https://github.com/yahoo/flux-examples/tree/master/fluxible-router)
