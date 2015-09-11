@@ -6,7 +6,7 @@ Here's a list of Isomorphic demos I've found across the web. If you find others 
 2. [flux-examples/fluxible-router](https://github.com/yahoo/flux-examples/tree/master/fluxible-router)
 3. [generator-fluxible](https://github.com/yahoo/fluxible/blob/master/docs/quick-start.md)
 4. [isomorphic-lab](https://github.com/insin/isomorphic-lab)
-5. [isomorphic-tutorial](https://github.com/insin/isomorphic-lab)
+5. [isomorphic-tutorial](https://github.com/spikebrehm/isomorphic-tutorial)
 6. [react-engine](https://github.com/paypal/react-engine)
 7. [react-isomorphic-seed](https://github.com/htmlxprs/React-Isomorphic-Seed)
 8. [react-router-mega-demo](https://github.com/rackt/react-router-mega-demo)
